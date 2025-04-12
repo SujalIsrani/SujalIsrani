@@ -6,7 +6,7 @@
 
 📚 Currently building skills in Python, machine learning, and web development. Interested in internships that allow me to grow my coding and problem-solving abilities.
 
-🔧 Tech Stack: Java | Python | Matplotlib | Git | C | C++ | HTML | CSS | Javascript | Pandas | NumPy | ReactJS | SQL | PostgreSQL | 
+🔧 Tech Stack: Java | Python | Matplotlib | Git | C | C++ | HTML | CSS | Javascript | Pandas | NumPy | SQL | PostgreSQL | 
 
 🌱 Learning more about AI and Machine Learning to create impactful projects.
 
